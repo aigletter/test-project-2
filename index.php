@@ -1,6 +1,6 @@
 <?php
 
-echo '<h2>Master</h2>';
+echo 'Resolved line';
 
 echo 'Hello world!';
 
