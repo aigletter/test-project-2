@@ -1,6 +1,6 @@
 <?php
 
-echo '<h1>Master</h1>';
+echo '<h2>Master</h2>';
 
 echo 'Hello world!';
 
