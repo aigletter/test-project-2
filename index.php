@@ -1,6 +1,6 @@
 <?php
 
-phpinfo();
+echo '<b>Feature</b>';
 
 echo 'Hello world!';
 
