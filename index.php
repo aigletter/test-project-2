@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+echo '<h1>Master</h1>';
 
 echo 'Hello world!';
