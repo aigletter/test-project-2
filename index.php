@@ -6,4 +6,4 @@ echo 'Hello world!';
 
 echo 'New line in feature branch' . PHP_EOL;
 
-echo 'End file';
+echo 'Finish file';
